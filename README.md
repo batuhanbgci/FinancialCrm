@@ -13,7 +13,7 @@
 - **LINQ**  
 - **Entity Framework**
 
-#THE DATABASE DIAGRAM I USED IN THIS PROJECT#
+THE DATABASE DIAGRAM I USED IN THIS PROJECT
 ![image](https://github.com/user-attachments/assets/5b7e7714-0367-45ce-9921-c4f6e3200e8c)
 
 LOGIN PAGE
@@ -28,7 +28,7 @@ CATEGORIES PAGE
 BANKS PAGE
 ![image](https://github.com/user-attachments/assets/a3dc2995-c1ff-40c7-b7c3-66e21768d524)
 
-#BILLING PAGE#
+BILLING PAGE
 ![image](https://github.com/user-attachments/assets/59bd2577-feb3-41c6-8db9-77e37d439091)
 
 SPENDINGS PAGE
